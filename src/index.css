@@ -293,7 +293,3 @@ a {
 .navActive {
   color: var(--secondary);
 }
-
-header h2, header nav {
-  display: inline-block;
-}

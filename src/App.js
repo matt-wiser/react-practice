@@ -27,8 +27,8 @@ function App() {
     ></Nav>
     
     <main>
-      <Gallery/>
-      <About/>
+    <Gallery currentCategory={currentCategory}></Gallery>
+    <About/>
     </main>
     </>
   );
